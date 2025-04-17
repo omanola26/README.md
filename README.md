@@ -19,4 +19,4 @@ here is  my bullet list
 
 ## here is my subsection
 
-- here is the [link])(blog.md) to my latest blog 
+- here is the [link](blog.md) to my latest blog
