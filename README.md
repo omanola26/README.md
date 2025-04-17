@@ -4,6 +4,8 @@ It is a new project
 
 **I will make this bold**
 
+## here is my subsection
+
 i will add a link to wikipedia
 [here](https://en.wikipedia.org/wiki/Mifflin_Street_Block_Party)
 
@@ -17,6 +19,6 @@ here is  my bullet list
 - bullet two
 - bullet three
 
-## here is my subsection
+
 
 - here is the [link](blog.md) to my latest blog
